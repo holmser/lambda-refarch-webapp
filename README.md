@@ -4,7 +4,7 @@
 
 The Serverless Web Application demonstrates how to use [AWS Lambda](http://aws.amazon.com/lambda/) in conjunction with [Amazon API Gateway](http://aws.amazon.com/api-gateway/), [Amazon DynamoDB](http://aws.amazon.com/dynamodb/), [Amazon S3](http://aws.amazon.com/s3/), and [Amazon Cognito](http://aws.amazon.com/cognito/) to build a serverless web application.  
 
-![diagram](./RefArch_BlogApp_Serverless.png)
+![diagram](./assets/RefArch_BlogApp_Serverless.png)
 
 The site is a simple blog application that allows users to log in and create posts and comments. By leveraging these services, you can build cost-efficient web applications that don't require the overhead of managing servers.
 
